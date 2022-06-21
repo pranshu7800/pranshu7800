@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 📚 I’m currently pursuing **B.Tech in Information Technology**
+- 📚 I’m a graduated student of **B.Tech in Information Technology**
   
-- 🔭 I’m currently working on **Web Development.**
+- 🔭 I’m currently working in **GlobalLogic.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **MERN Stack / React.**
 
 - 📫 How to reach me **pranshup23@gmail.com**
 
