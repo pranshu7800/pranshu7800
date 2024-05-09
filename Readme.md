@@ -10,8 +10,6 @@
   
 - 🔭 I’m currently working in **GlobalLogic as a Software Engineer.**
 
-- 🌱 I’m currently learning **Next.js.**
-
 - 📫 How to reach me **pranshup23@gmail.com**
 
 - ⚡ Fun fact **I love to explore new Tools and Technologies.**
